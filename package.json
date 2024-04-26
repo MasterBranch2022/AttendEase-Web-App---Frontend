@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ngx-material-timepicker": "^13.1.1",
+    "ngx-pick-datetime": "^0.0.1"
+  }
+}
